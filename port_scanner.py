@@ -1,4 +1,7 @@
 #code from THM Python4Pentesters
+
+#Melhorias: incluir barra de evolucao para acompanhar a qtde de portas ja listadas
+
 import sys,socket,pyfiglet
 
 ascii_banner = pyfiglet.figlet_format("TryHackMe \n Python 4 Pentesters \n Port Scanner")
